@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\MyFont1.spritefont</Source>
+      <Name>Fonts\MyFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\Fonts\MyFont1.xnb</Output>
+      <Time>2018-05-25T14:51:18.2207001+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreFont1.spritefont</Source>
+      <Name>Fonts\ScoreFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\Fonts\ScoreFont1.xnb</Output>
+      <Time>2018-05-25T14:51:30.1630275+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\DropCell.wav</Source>
+      <Name>Audio\DropCell</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\Audio\DropCell.xnb</Output>
+      <Time>1998-09-07T08:54:36+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\000.png</Source>
+      <Name>img\000</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\img\000.xnb</Output>
+      <Time>2018-05-23T20:32:51.6887906+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\003.png</Source>
+      <Name>img\003</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\img\003.xnb</Output>
+      <Time>2018-05-22T00:05:53.7388627+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\bgimg.bmp</Source>
+      <Name>img\bgimg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\img\bgimg.xnb</Output>
+      <Time>2011-06-09T10:16:52.046875+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\F1_swim.png</Source>
+      <Name>img\F1_swim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\img\F1_swim.xnb</Output>
+      <Time>2018-05-21T19:22:47.3419873+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{27D00CA3-B5BD-4942-AABB-5DE23614F036}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-05-17T13:49:48.4682281+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

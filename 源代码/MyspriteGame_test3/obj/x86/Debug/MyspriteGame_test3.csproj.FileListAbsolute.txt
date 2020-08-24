@@ -1,0 +1,13 @@
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\Fonts\MyFont1.xnb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\Fonts\ScoreFont1.xnb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\MyspriteGame_test3.exe
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\MyspriteGame_test3.pdb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\obj\x86\Debug\MyspriteGame_test3.exe
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\obj\x86\Debug\MyspriteGame_test3.pdb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\Audio\DropCell.xnb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\img\000.xnb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\img\003.xnb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\img\bgimg.xnb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\bin\x86\Debug\Content\img\F1_swim.xnb
+C:\Users\tyf952623\Documents\Visual Studio 2010\Projects\Project1\MyspriteGame_test3\MyspriteGame_test3\obj\x86\Debug\MyspriteGame_test3.csprojResolveAssemblyReference.cache
